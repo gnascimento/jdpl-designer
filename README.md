@@ -52,6 +52,13 @@ java -jar target/jdpl-designer.jar
 
 Gabriel Nascimento dos Santos — gnascimento.info@gmail.com
 
+## Disclaimer
+
+This project is an independent open source tool for working with jPDL 3.2 process definitions.
+It is not affiliated with, endorsed by, or developed for any specific organization, system, or institution.
+
+All development was carried out independently and is intended for general-purpose use with jBPM 3.2 compatible workflows.
+
 ## License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for details.
